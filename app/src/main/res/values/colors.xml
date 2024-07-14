@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="C1">#F44336</color>
+    <color name="C2">#E91E63</color>
+    <color name="C3">#9C27B0</color>
+    <color name="C4">#2196F3</color>
+    <color name="C5">#009688</color>
+    <color name="C6">#4CAF50</color>
+    <color name="C7">#CDDC39</color>
+    <color name="C8">#FFEB3B</color>
+    <color name="C9">#FF9800</color>
+</resources>
